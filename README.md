@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dicksonmanchau
-- 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning SQL,Python and R
-- 💞️ I’m looking to collaborate on SQL
+- 👋 Hi, I’m @Dicksomanchau
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently an ALX software engineering student
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me ...
 
 <!---
